@@ -1,5 +1,5 @@
-# fatf_grey_list
-Historical records on which countries where on the grey/black lists of the Financial Action Task Force. Covering 2017-2026 for now.
+# FATF grey/black list
+This repository contains historical records on which countries where on the grey/black lists of the Financial Action Task Force. Covering 2017-2026 for now.
 
 Countries are encoded using ISO3 standard. A 1 indicates the given country was on grey list, while a 2 indicates the black list. 
 
